@@ -1,0 +1,25 @@
+.search_div {
+  margin-bottom: 1rem;
+}
+
+.btn_div {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactList {
+  margin-bottom: 2rem;
+  overflow-y: auto;
+}
+
+.contactItem {
+  margin: 1rem 0;
+}
+
+.paginate_div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
